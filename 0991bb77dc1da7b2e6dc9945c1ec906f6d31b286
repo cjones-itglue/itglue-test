@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6df9dd5f_cf6d92c3",
+        "filename": "README.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1013703
+      },
+      "writtenOn": "2018-03-16T21:18:54Z",
+      "side": 1,
+      "message": "I would also like to see `x, y, and z`.",
+      "revId": "0991bb77dc1da7b2e6dc9945c1ec906f6d31b286",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
