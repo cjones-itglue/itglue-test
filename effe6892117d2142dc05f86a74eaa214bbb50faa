@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fd6553f_61db910e",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1011404
+      },
+      "writtenOn": "2018-03-16T21:17:41Z",
+      "side": 1,
+      "message": "This is nice, but I would like to see the numbers 1, 2, and 3 here as well.",
+      "revId": "effe6892117d2142dc05f86a74eaa214bbb50faa",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
