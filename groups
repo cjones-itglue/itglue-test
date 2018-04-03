@@ -1,3 +1,6 @@
-# UUID            	Group Name
+# UUID                 	Group Name
 #
-user:cjones-itglue	user/Chris Jones (cjones-itglue)
+global:Registered-Users	Registered Users
+user:cjones-itglue     	user/Chris Jones (cjones-itglue)
+user:itgmj             	user/itgmj
+user:njng              	user/njng
