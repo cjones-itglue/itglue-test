@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a1c4100e_96afe8d4",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1013849
+      },
+      "writtenOn": "2018-04-03T20:43:16Z",
+      "side": 1,
+      "message": "this is a stupid message",
+      "revId": "ad6e833b60111a48f333022b37ad08e12709647b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "30d14d3a_2f6f7005",
+        "filename": "a_file",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1013849
+      },
+      "writtenOn": "2018-04-03T20:43:16Z",
+      "side": 1,
+      "message": "this is a file level comment!",
+      "revId": "ad6e833b60111a48f333022b37ad08e12709647b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "269ad95e_1877565c",
+        "filename": "a_file",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1013849
+      },
+      "writtenOn": "2018-04-03T20:43:16Z",
+      "side": 1,
+      "message": "another comment",
+      "revId": "ad6e833b60111a48f333022b37ad08e12709647b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
